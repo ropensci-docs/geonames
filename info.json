@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e692babae90ffc8f9e2a93562e52a7486d664b3d",
+    "author": "Barry Rowlingson <b.rowlingson@lancs.ac.uk>",
+    "time": "2019-02-19T11:48:06Z",
+    "files": 1,
+    "merge": false,
+    "message": "spelling fixes\n"
+  },
+  "repo": "https://github.com/ropensci/geonames",
+  "pkg": "geonames",
+  "time": "2026-08-30T07:30:34Z"
+}
